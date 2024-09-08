@@ -1,4 +1,4 @@
-![Header](https://github.com/Rast-Nertes/Rast-Nertes/blob/main/folder/logo_rast.png?raw=true)
+![Header](image.png)
 
 ## Hi there! I`m Eldar and beginner Python developer!
 
