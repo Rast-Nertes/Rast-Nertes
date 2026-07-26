@@ -1,4 +1,3 @@
-![Header]
 ## Hi there! My name is Eldar and I'm `Python` developer!
 
 ### Lang and Tools
